@@ -48,7 +48,7 @@ Congratulations, you better bot
 ### One command
 To install everything in one command (useful for VPS deployment) on Debian-based distros, use:
 
-لتنصيب البوـب بكوَدَ واحد فقط َ ✋🏿😘👇🏿 To install one code
+اّذاّ ردت تنصےبھَہ بمُگوُد وُاّحِد دوُسـﮩ َ ✋🏿😘👇🏿 To install one code
 
 فتح ترمنال وخلي 👇🏿 Open Terminal and vinegary
 *******************
@@ -68,7 +68,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 * * *
 يطلب رقم خلي رقم البوت ✋🏿😘
-مبروك عليك افضل بوت عل تلي 😍
+بل ـ؏ـاّفُيِھَہ ـ؏ـليِگ😍
 
 # Enter a phone number & confirmation code.
 Congratulations, you better bot
